@@ -11,7 +11,7 @@ body{
 }
 
 .presentation{
-    background-color: #464645;
+    background-color: #fff;
     height: 100%;
     position: relative;
 }
@@ -31,14 +31,14 @@ body{
 
 p{
   font-size: 2em;
-  color: #fff;
+  color: #464645;
   font-family: 'helvetica neue', helvetica, arial, sans-serif;
   font-weight: 200;
 }
 
 .contact{
     font-size: 1.2em;
-    color: #fff;
+    color: #464645;
     font-family: 'helvetica neue', helvetica, arial, sans-serif;
     font-weight: 200;
     list-style: none;
@@ -51,33 +51,5 @@ p{
 .contact a{
     vertical-align: super;
     text-decoration: none;
-    color: #fff
-}
-
-.logo{
-  background-image: url('contact.png');
-  background-repeat: no-repeat;
-  display: inline-block;
-  width: 50px;
-  height: 50px;
-}
-
-.linkedin {
-  background-position: 3px 0px;
-}
-
-.gplus {
-  background-position: -48px 0px;
-}
-
-.skype {
-  background-position: -103px 0px;
-}
-
-.github {
-  background-position: -156px 0px;
-}
-
-.mail {
-  background-position: -205px 0px;
+    color: #464645
 }
