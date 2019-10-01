@@ -21,7 +21,7 @@ body{
     min-width: 300px;
     margin: auto;
     position: absolute;
-    top: -20%;
+    top: -30%;
     left: 0;
     bottom: 0;
     right: 0;
@@ -30,16 +30,20 @@ body{
 }
 
 p{
-  font-size: 2em;
+  font-size: 64px;
   color: #464645;
-  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 200;
+}
+
+p span{
+    font-size: 38px;
 }
 
 .contact{
     font-size: 1.2em;
     color: #464645;
-    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: 200;
     list-style: none;
 }
@@ -53,3 +57,4 @@ p{
     text-decoration: none;
     color: #464645
 }
+
